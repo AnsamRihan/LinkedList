@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651833496 source:c:\users\ansam\desktop\dataproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1651829896 source:c:\users\ansam\desktop\data structure\dataproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
